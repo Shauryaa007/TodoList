@@ -54,7 +54,7 @@ const truncate = (e) =>{
 
   if(h>0&&h<12)
   {
-     msg="Hey! Good Morning...";
+     msg="Hey! Good Morning";
   }
   else if(h>=12&&h<17)
   {
